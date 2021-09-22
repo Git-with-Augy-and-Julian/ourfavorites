@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+PB&J
+Bananas
+Chocolate-Chip Cookies
+
+=======
 Panda Express
 Chipotle
 McDonald's
+>>>>>>> 6bfd0ff98e433ea6e0d4477166bb815d10aaa2ce
 
